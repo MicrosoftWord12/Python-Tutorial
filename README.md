@@ -1,6 +1,6 @@
 # Python-Tutorial
 
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013-logo.svg" alt="alt text" width="500" height="250">
+<img src="https://i.imgur.com/eiHj1ny.png" alt="I blame google docs" width="250" height="250">
 
 
 Also this is for people who are new to learning python and want some recap to what is going on in the language
