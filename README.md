@@ -16,6 +16,9 @@ Python is an open source programming language which can do a lot for whatever pr
 5. Machine Learning
 6. Automation of things
 7. Software Developement
+8. Massive Community
+9. Hacking
+10. **Discord Development**  (What I usally use python for)
 8. etc
 
 <h3>Why you should learn python compared to other languages</h3>
@@ -28,6 +31,6 @@ I have started learning python since 2019 so if I miss something don't bully me
 (I will be using Python version 3.8.4)
  
 
-<h4>In the following files I will teach you python from scratch</h4>
+<h6>In the following files I will teach you python from scratch</h6>
 
-<h1>I am somewhat new to using a readme.md file so I might be clumsy also if anything is wrong just tell me and I will cha//nge it</h1>
+<h4>I am somewhat new to using a readme.md file so I might be clumsy also if anything is wrong just tell me and I will change it</h4>
