@@ -23,9 +23,9 @@ In my opinion Python is one of the best languages to learn as a begginer because
 
 #About me
 I have started learning python since 2019 so if I miss something don't bully me   
-(I am still leaning Python on top of over things like __**git**__ and __**GitHub**__)
+(I am still leaning Python on top of over things like **git** and **GitHub**)
 
-(I will be using Python version 3.8)
+(I will be using Python version 3.8.4)
  
 
 <h4>In the following files I will teach you python from scratch</h4>
