@@ -5,7 +5,7 @@
 
 Also this is for people who are new to learning python and want some recap to what is going on in the language
 
-#Why Python
+<h3>Why Python</h3>
 
 Python is an open source programming language which can do a lot for whatever project you are working on for example:
 
@@ -24,7 +24,7 @@ Python is an open source programming language which can do a lot for whatever pr
 <h3>Why you should learn python compared to other languages</h3>
 In my opinion Python is one of the best languages to learn as a begginer because of how vast it is 
 
-#About me
+<h3>About me</h3>
 I have started learning python since 2019 so if I miss something don't bully me   
 (I am still leaning Python on top of over things like **git** and **GitHub**)
 
