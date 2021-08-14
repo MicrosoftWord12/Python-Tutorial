@@ -1,6 +1,7 @@
 #For Github and to be clear
 .idea
 .vscode
+.git
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
