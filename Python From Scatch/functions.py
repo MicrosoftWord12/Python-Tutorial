@@ -12,7 +12,8 @@ def function(a, b):
 # to define a function use the *def* keyword followed by the function's name
 # the parameters are things which can be accessed for certain reasons in this example its for multiplication
 # the param a = 5 and b = 10. so the function will return / give you in return 5 X 10 = 50. it would return 50
-# FUNCTIONS DO NOT HAVE TO HAVE THE RETURN STATEMENT
+
+# to use a function you have to call it ↓ ↓ ↓
 function(5, 10)
 # Input 5 and 10 ^^
 
@@ -23,7 +24,7 @@ function(5, 10)
 questionA = input("What is a?")
 questionB = input("What is b?")
 
-
+# FUNCTIONS DO NOT HAVE TO HAVE THE RETURN STATEMENT
 def multiply(a, b):
     print(a * b)
     return a * b
